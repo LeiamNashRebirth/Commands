@@ -1,4 +1,4 @@
-Interface ver. 1.0.9
+Interface ver. 1.2.0
 <br> <br>
 [created by Leiam Nash](https://www.facebook.com/LeiamNashRebrth)
 
@@ -68,6 +68,16 @@ https://meme-api.herokuapp.com/gimme/memes
 - [ ] Thumbnail
 ```py
 https://img.youtube.com/vi/${value.id}/maxresdefault.jpg
+```
+
+- [ ] Quotes
+```py
+https://api.popcat.xyz/quote
+```
+
+- [ ] Instagram
+```py
+https://api.popcat.xyz/instagram?user=LeiamNashRebirth
 ```
 
 <Br>
