@@ -20,7 +20,7 @@ AIzaSyB6pTkV2PM7yLVayhnjDSIM0cE_MbEtuvo
 ```
 
 - [ ] TTS
-```py
+```ruby
 https://translate.google.com/translate_tts?ie=UTF-8&q=${encodeURIComponent(msg)}&tl=${languageToSay}&client=tw-ob
 ```
 
@@ -32,53 +32,59 @@ covid-193.p.rapidapi.com
 ```
 
 - [ ] Trans
-```py
+```ruby
 https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=${lang}&dt=t&q=${translateThis}
 ```
 
 - [ ] Siesta
-```py
+```ruby
 https://siestakawaii.gq/
 ```
 - [ ] TikVid
-```py
+```ruby
 http://api.leanhtruong.net/api-no-key/tiktok?url=${event.messageReply.args
 ```
 
 - [ ] Hentai
-```py
+```ruby
 https://api.sadgirlluytink.repl.co/hentaiz/list
 ```
 
 - [ ] Wiki
-```py
+```ruby
 https://en.wikipedia.org/w/api.php
 ```
 
 - [ ] Calculator
-````py
+````ruby
 http://api.wolframalpha.com/v2/query?appid=${key}&input=${encodeURIComponent(content)}&output=json
 ````
 
 - [ ] Memes
-```py
+```ruby
 https://meme-api.herokuapp.com/gimme/memes
 ```
 
 - [ ] Thumbnail
-```py
+```ruby
 https://img.youtube.com/vi/${value.id}/maxresdefault.jpg
 ```
 
 - [ ] Quotes
-```py
+```ruby
 https://api.popcat.xyz/quote
 ```
 
 - [ ] Instagram
-```py
+```ruby
 https://api.popcat.xyz/instagram?user=LeiamNashRebirth
 ```
+
+- [ ] Encrypted JS
+```ruby
+https://obfuscator.io
+```
+
 
 <Br>
 
